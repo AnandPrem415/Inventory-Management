@@ -1,0 +1,6 @@
+Item,Stock,Price,Sales,Restock_Level
+Laptop,50,1000,30,10
+Phone,80,500,70,15
+Tablet,30,300,15,5
+Headphones,200,100,50,20
+Monitor,40,200,25,10
